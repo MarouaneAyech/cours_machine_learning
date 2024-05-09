@@ -1,0 +1,21 @@
+surface,nb_chambre,type,prix,cher
+100,3,normal,300,0
+150,4,haut standing,500,1
+120,3,normal,400,0
+80,2,normal,250,0
+200,5,haut standing,600,1
+110,3,normal,320,0
+130,4,normal,410,1
+90,2,normal,280,0
+70,2,normal,230,0
+180,4,haut standing,580,1
+95,2,normal,300,0
+140,3,normal,420,1
+75,2,normal,270,0
+160,4,haut standing,450,1
+85,2,normal,290,0
+105,3,normal,310,0
+195,5,haut standing,590,1
+125,3,normal,380,0
+165,4,haut standing,470,1
+115,3,normal,330,0
